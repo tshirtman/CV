@@ -4,15 +4,14 @@ Gabriel Pettier
 Experience
 ----------
 
-2009-2012 AlterWay Solution Paris
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2009-2012 AlterWay Solution
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 2008-2009 Linterweb SARL
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 2006-2008 Equaly SARL
 ~~~~~~~~~~~~~~~~~~~~~
-
 
 Degrees
 -------
@@ -31,20 +30,25 @@ Information System BSc (two years) at the University Technology Institute (IUT) 
 Technical Skills
 ------
 
+Expert
+~~~~~~
+I won't label myself as an expert in anything, there is always so much to learn :)
+
 Advanced
 ~~~~~~~~
 Python
+Kivy
 Git
 Linux
 Vim
 shell (sh/bash/zsh)
-
 
 Moderate
 ~~~~~~~~
 C
 HTML/CSS/Javascript/Ajax (JQuery/Prototype)
 Cython
+Networks
 
 Begginer
 ~~~~~~~~
@@ -63,3 +67,5 @@ English : Fluent (TOEIC 990)
 
 Various interrests
 ------------------
+
+
