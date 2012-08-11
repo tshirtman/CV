@@ -1,4 +1,17 @@
-CV
-==
+Gabriel Pettier
+===============
 
-my curriculum vitae in markdown
+Experience
+----------
+
+
+Diploms
+-------
+
+
+Qualifications
+--------------
+
+
+Various interrests
+------------------
