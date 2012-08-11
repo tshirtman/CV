@@ -6,14 +6,17 @@ Experience
 
 2009-2012 AlterWay Solution
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TODO
 
 
 2008-2009 Linterweb SARL
 ~~~~~~~~~~~~~~~~~~~~~~~~
+TODO
 
 
 2006-2008 Equaly SARL
 ~~~~~~~~~~~~~~~~~~~~~
+TODO
 
 
 Degrees
@@ -46,6 +49,7 @@ Advanced
 - Vim
 - shell (sh/bash/zsh)
 
+
 Moderate
 ~~~~~~~~
 - C
@@ -53,6 +57,7 @@ Moderate
 - Ruby/Rails
 - Cython
 - Networks
+
 
 Begginer
 ~~~~~~~~
