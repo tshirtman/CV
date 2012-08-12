@@ -76,8 +76,8 @@ to learn :)
 
 ### Languages
 
-- French : native
-- English : fluent (TOEIC 990)
+- French: native
+- English: fluent (TOEIC 990)
 
 
 ## Various interests
@@ -86,5 +86,6 @@ to learn :)
 - History
 - Politics
 - Economics
+- Typography
 - Did i mention Science? well, the other stuff are scienco too, obviously.
 - Silly stuff that are not Science but that makes life fun too.
