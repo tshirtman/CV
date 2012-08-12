@@ -2,6 +2,11 @@
 
 ## Experience
 
+### 2011-2012 Tabtou
+
+- BPMN 2.0 solution development using Kivy/Python-for-android (freelance)
+
+
 ### 2009-2012 AlterWay Solution
 
 - Redmine Plugins development and customization to build custom client
