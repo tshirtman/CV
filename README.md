@@ -63,11 +63,11 @@ to learn :)
 - Ruby/Rails
 - Cython
 - Networks
-
-
-### Begginer
-
 - Java/JNI
+
+
+### Begginer/Curious
+
 - Lisp
 - Go
 
