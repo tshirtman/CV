@@ -2,6 +2,11 @@
 
 ## Experience
 
+### 2011-2012 Tabtou
+
+- BPMN 2.0 solution development using Kivy/Python-for-android (freelance)
+
+
 ### 2009-2012 AlterWay Solution
 
 - Redmine Plugins development and customization to build custom client
@@ -76,8 +81,8 @@ to learn :)
 
 ### Languages
 
-- French : native
-- English : fluent (TOEIC 990)
+- French: native
+- English: fluent (TOEIC 990)
 
 
 ## Various interests
@@ -86,5 +91,6 @@ to learn :)
 - History
 - Politics
 - Economics
+- Typography
 - Did i mention Science? well, the other stuff are scienco too, obviously.
 - Silly stuff that are not Science but that makes life fun too.
