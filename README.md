@@ -7,12 +7,10 @@
 - BPMN 2.0 solution development using Kivy/Python-for-android (freelance)
     - Implementation BPMN 2.0 specification
     - User Interface/interaction design and implementation using Kivy
-    
 - Kivy core-dev
     - Bezier curves/dashed lines implementation
     - Documentation work/lots of various fixes
     - Extension of recording module for better testing possibilities
-    
 - Python-for-android (kivy)
     - Add intent-filters support to packages
     - Devolopment of PyJNIus as a better way to use Android API
@@ -25,23 +23,17 @@
     - Human Ressources Management interface for Olympus, based on Redmine
     - Redmine Project Management plugin for Alterway.
     - Prepaid Ticket service for French Ministery contractors, based on Redmine
-    
 - R&D work on Kivy, with contributions, prototype solutions development
     - GridLayout port from PyMT
     - Various intern showcases for kivy technology
-    
 - Website Devolpment using Python/Pyramid
     - Showroom: application deployment from a web interface
-    
 - AdminProxy, bastion software, for centralized access management to resources
     - Work on Web interface, lot of fixes
     - Network discovery improvements/fixes
     - Documentation of usage
-    
 - Co-authored White Paper "Python: le développement autrement"
-
     http://www.alterway.fr/publication/python-le-developpement-autrement
-    
 - Wikinov.org: online index of french business incubators (not on line anymore)
 
 ### 2008-2009 Linterweb SARL
@@ -50,7 +42,6 @@
   concil.
     - Maintenance and evolution of various custom based PHP websites and
     infrastructure solutions.
-  
 - Joomla Development
     - New features for ABCvert.com (site have been redone since)
 
@@ -60,7 +51,6 @@
 - Work on ERP implemention based on ERP5 (Zope/Python) for the cwdsellier company
     - Implementation of company workflows
     - Creation of invoice production system (pdf)
-    
 - Various PHP web development
 
 
