@@ -33,8 +33,9 @@
     - Network discovery improvements/fixes
     - Documentation of usage
 - Co-authored White Paper "Python: le développement autrement"
-    http://www.alterway.fr/publication/python-le-developpement-autrement
+    - http://www.alterway.fr/publication/python-le-developpement-autrement
 - Wikinov.org: online index of french business incubators (not on line anymore)
+    - Integration fixes
 
 ### 2008-2009 Linterweb SARL
 
