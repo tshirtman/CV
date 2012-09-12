@@ -53,16 +53,24 @@
 
 ### 2008-2009 Linterweb SARL
 
-- Maintenance and evolutions of various custom based PHP websites and
-  infrastructure solutions for French electricity company (EDF) works
+- PHP developpment for French electricity company (EDF) works
   concil.
+  
+    Maintenance and evolution of various custom based PHP websites and
+    infrastructure solutions.
+  
 - Joomla Development
+    
     New features for ABCvert.com (site have been redone since)
 
 
 ### 2006-2008 Equaly SARL
 
-- Work on ERP implemention based on ERP5 (Zope/Python) for cwdsellier company
+- Work on ERP implemention based on ERP5 (Zope/Python) for the cwdsellier company
+
+    Implementation of company workflows
+    Creation of invoice production system (pdf)
+    
 - Various PHP web development
 
 
