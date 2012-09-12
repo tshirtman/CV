@@ -6,19 +6,19 @@
 
 - BPMN 2.0 solution development using Kivy/Python-for-android (freelance)
 
-    Implementation BPMN 2.0 specification
-    User Interface/interaction design and implementation using Kivy
+    - Implementation BPMN 2.0 specification
+    - User Interface/interaction design and implementation using Kivy
     
 - Kivy core-dev
 
-    Bezier curves/dashed lines implementation
-    Documentation work/lots of various fixes
-    Extension of recording module for better testing possibilities
+    - Bezier curves/dashed lines implementation
+    - Documentation work/lots of various fixes
+    - Extension of recording module for better testing possibilities
     
 - Python-for-android (kivy)
 
-    Add intent-filters support to packages
-    Devolopment of PyJNIus as a better way to use Android API
+    - Add intent-filters support to packages
+    - Devolopment of PyJNIus as a better way to use Android API
 
 
 ### 2009-2012 AlterWay Solution
@@ -26,24 +26,24 @@
 - Redmine Plugins development and customization to build custom client
   solutions (Ruby/Rails)
   
-    Human Ressources Management interface for Olympus, based on Redmine
-    Redmine Project Management plugin for Alterway.
-    Prepaid Ticket service for French Ministery contractors, based on Redmine
+    - Human Ressources Management interface for Olympus, based on Redmine
+    - Redmine Project Management plugin for Alterway.
+    - Prepaid Ticket service for French Ministery contractors, based on Redmine
     
 - R&D work on Kivy, with contributions, prototype solutions development
     
-    GridLayout port from PyMT
-    Various intern showcases for kivy technology
+    - GridLayout port from PyMT
+    - Various intern showcases for kivy technology
     
 - Website Devolpment using Python/Pyramid
 
-    Showroom: application deployment from a web interface
+    - Showroom: application deployment from a web interface
     
 - AdminProxy, bastion software, for centralized access management to resources
     
-    Work on Web interface, lot of fixes
-    Network discovery improvements/fixes
-    Documentation of usage
+    - Work on Web interface, lot of fixes
+    - Network discovery improvements/fixes
+    - Documentation of usage
     
 - Co-authored White Paper "Python: le développement autrement"
 
@@ -56,20 +56,20 @@
 - PHP developpment for French electricity company (EDF) works
   concil.
   
-    Maintenance and evolution of various custom based PHP websites and
+    - Maintenance and evolution of various custom based PHP websites and
     infrastructure solutions.
   
 - Joomla Development
     
-    New features for ABCvert.com (site have been redone since)
+    - New features for ABCvert.com (site have been redone since)
 
 
 ### 2006-2008 Equaly SARL
 
 - Work on ERP implemention based on ERP5 (Zope/Python) for the cwdsellier company
 
-    Implementation of company workflows
-    Creation of invoice production system (pdf)
+    - Implementation of company workflows
+    - Creation of invoice production system (pdf)
     
 - Various PHP web development
 
