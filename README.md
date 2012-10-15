@@ -4,7 +4,7 @@
 
 ### 2011-2012 Tabtou
 
-- BPMN 2.0 solution development using Kivy/Python-for-android (freelance)
+- BPMN 2.0 solution development using Kivy/Python-for-android
     - Implementation of BPMN 2.0 specification
     - User Interface/interaction design and implementation using Kivy
     - UnitTest system
