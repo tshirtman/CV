@@ -23,7 +23,7 @@
 - Joomla Development
 
 
-### 2006-2008 Equaly SARL
+### 2006-2007 Equaly SARL
 
 - Work on ERP implemention based on ERP5 (Zope/Python)
 - Various PHP web development
