@@ -92,5 +92,5 @@ to learn :)
 - Politics
 - Economics
 - Typography
-- Did i mention Science? well, the other stuff are scienco too, obviously.
+- Did i mention Science? well, the other stuff are science too, obviously.
 - Silly stuff that are not Science but that makes life fun too.
