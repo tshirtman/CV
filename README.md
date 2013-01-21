@@ -7,7 +7,7 @@
 - BPMN 2.0 solution development using Kivy/Python-for-android
 
 
-### 2009-2012 AlterWay Solution
+### 2009-2012 AlterWay Solutions
 
 - Redmine Plugins development and customization to build custom client
   solutions (Ruby/Rails)
