@@ -2,10 +2,14 @@
 
 ## Experience
 
-### 2011-2012 Tabtou
+
+### 2013-now Majerti
+
+- not much yet :)
+
+### 2011-2013 Tabtou
 
 - BPMN 2.0 solution development using Kivy/Python-for-android
-
 
 ### 2009-2012 AlterWay Solutions
 
