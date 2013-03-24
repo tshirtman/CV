@@ -18,7 +18,6 @@
 - R&D work on Kivy, with contributions, prototype solutions development
 - Website Devolopment using Python/Pyramid
 
-
 ### 2008-2009 Linterweb SARL
 
 - Maintenance and evolutions of various custom based PHP websites and
@@ -47,12 +46,37 @@ Information System BSc (two years) at the University Technology
 Institute (IUT) of Valence (France)
 
 
+## Personnal Projects
+
+### PythonAR
+
+A python Auto Reloader, can be used for all sort of projects, not just
+python, allow to start and restart jobs based on FileSystem events, with
+a lot of filters to restart only on the right events.
+under the Kivy organisation
+<https://github.com/kivy/pythonar>
+
+### PyJNIus
+
+A Cython lib to use Java classes directly from Python, using JNI. Allow
+to instanciate classes, call their methods, and soon to implement Java
+interfaces directly from Python Classes.
+In collaboration with Mathieu Virbel, with the Kivy organisation
+<https://github.com/kivy/pyjnius>
+
+### Ultimate-Smash-Friends (since 2008)
+
+A plateform fight game, in Python, i moved on to other things now, but
+to date, my biggest personnal project. Got a few contributors, now hosted on Github:
+<https://github.com/tshirtman/ultimate-smash-friends>
+
 ## Technical Skills
 
 ### Expert
 
-I won't label myself as an expert in anything, there is always so much
-to learn :)
+I won't label myself as an expert in anything, there is always so much to learn
+:) (Other may consider me an expert in some of the things i put in the next
+section, though)
 
 
 ### Advanced
@@ -79,6 +103,7 @@ to learn :)
 
 - Lisp
 - Go
+- Erlang
 
 
 ## Other Qualifications
@@ -98,3 +123,5 @@ to learn :)
 - Typography
 - Did i mention Science? well, the other stuff are science too, obviously.
 - Silly stuff that are not Science but that makes life fun too.
+
+<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
