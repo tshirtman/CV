@@ -1,127 +1,125 @@
 # Gabriel Pettier
 
-## Experience
+## Expérience
 
 
-### 2013-now Majerti
+### 2013-présent Majerti
 
-- not much yet :)
+- Développement web avec `Pyramid`
 
 ### 2011-2013 Tabtou
 
-- BPMN 2.0 solution development using Kivy/Python-for-android
+- Développement d'une solution BPMN 2.0 avec `Kivy`/`Python-for-android`
 
 ### 2009-2012 AlterWay Solutions
 
-- Redmine Plugins development and customization to build custom client
-  solutions (Ruby/Rails)
-- R&D work on Kivy, with contributions, prototype solutions development
-- Website Devolopment using Python/Pyramid
+- Développement de plugins `Redmine` et customization pour construire une 
+solution client (`Ruby`/`Rails`)
+- R&D sur Kivy, contributions, développement de solutions prototypes
+- Développement de sites internet avec `Python`/`Pyramid`
 
 ### 2008-2009 Linterweb SARL
 
-- Maintenance and evolutions of various custom based PHP websites and
-  infrastructure solutions for French electricity company (EDF) works
-  concil.
-- Joomla Development
+- Maintenance et évolutions de sites intranets et extranets PHP pour le Comité 
+d'entreprise d'EDF (CCAS), maintien en condition opérationnelles
+- Développement `Joomla`
 
 
 ### 2006-2007 Equaly SARL
 
-- Work on ERP implemention based on ERP5 (Zope/Python)
-- Various PHP web development
+- Développement d'une solution ERP basée sur `ERP5` (`Zope`/`Python`)
+- Développement web `PHP` variés
 
 
-## Degrees
+## Diplômes
 
 
 ### 2009-2012
 
-Information System Engineering Master at l'EFREI, Paris (France)
+Ingénieur en système d'information/Master 2, EFREI, Paris
 
 
 ### 2004-2006
 
-Information System BSc (two years) at the University Technology
-Institute (IUT) of Valence (France)
+DUT informatique des systèmes industriels à l'Institut Universitaire 
+Technologique (IUT) de Valence
 
 
-## Personnal Projects
+## Projets personnels
 
 ### PythonAR
 
-A python Auto Reloader, can be used for all sort of projects, not just
-python, allow to start and restart jobs based on FileSystem events, with
-a lot of filters to restart only on the right events.
-under the Kivy organisation
+`Python Auto Reloader`, Peut être utilisé dans tout types de projets, pas 
+seulement python, permet de relancer des processus systèmes sur des évènements 
+de système de fichier (sauvegarde d'un fichier, etc) 
 <https://github.com/kivy/pythonar>
 
 ### PyJNIus
 
-A Cython lib to use Java classes directly from Python, using JNI. Allow
-to instanciate classes, call their methods, and soon to implement Java
-interfaces directly from Python Classes.
-In collaboration with Mathieu Virbel, with the Kivy organisation
+Une bibliothèque `Cython` permettant d'utiliser ou même de définir des classes 
+java depuis Python, d'instancier celles-ci, d'appeler leurs méthodes, ou 
+d'implémenter des interfaces `Java`. Utilisé entre autre pour utiliser l'API 
+`Android` depuis `python-for-android`.
+
+En collaboration avec Mathieu Virbel, et l'organisation Kivy
 <https://github.com/kivy/pyjnius>
 
-### Ultimate-Smash-Friends (since 2008)
+### Ultimate-Smash-Friends (2008-2012)
 
-A plateform fight game, in Python, i moved on to other things now, but
-to date, my biggest personnal project. Got a few contributors, now hosted on Github:
-<https://github.com/tshirtman/ultimate-smash-friends>
+Un jeu de plateform, en `Python`, projet non totalement aboutis, je suis passé 
+à d'autres projets, mais celui ci reste mon plus gros projet personnel à ce 
+jour.  <https://github.com/tshirtman/ultimate-smash-friends>
 
-## Technical Skills
+## Compétences techniques
 
 ### Expert
 
-I won't label myself as an expert in anything, there is always so much to learn
-:) (Other may consider me an expert in some of the things i put in the next
-section, though)
+Je ne me considère pas comme expert en quoi que ce soit, par ce qu'il y a 
+toujours beaucoup à apprendre, mais certains peuvent me considérer comme expert 
+dans certaines des compétences que je mets dans la catégorie suivante.
 
 
-### Advanced
+### Avancé
 
-- Python
-- Kivy
-- Git
-- Linux
-- Vim
-- shell (sh/bash/zsh)
-
-
-### Moderate
-
-- C
-- HTML/CSS/Javascript/Ajax (JQuery/Prototype)
-- Ruby/Rails
-- Cython
-- Networks
-- Java/JNI
+- `Python`
+- `Kivy`
+- `Git`
+- `Linux`
+- `Vim`
+- `shell` (`sh`/`bash`/`zsh`)
 
 
-### Begginer/Curious
+### Modéré
 
-- Lisp
-- Go
-- Erlang
+- `C`
+- `HTML`/`CSS`/`Javascript`/`Ajax` (`JQuery`/`Prototype`)
+- `Ruby`/`Rails`
+- `Cython`
+- `Networks`
+- `Java`/`JNI`
 
 
-## Other Qualifications
+### Débutant, Curieux
+
+- `Lisp`
+- `Go`
+- `Erlang`
+
+
+## Autres Qualifications
 
 ### Languages
 
-- French: native
-- English: fluent (TOEIC 990)
+- Français: langue maternelle
+- Anglais: courant (TOEIC 990)
 
 
-## Various interests
+## Intérêts divers
 
-- Science!
-- History
-- Politics
-- Economics
-- Typography
-- Did i mention Science? well, the other stuff are science too, obviously.
-- Silly stuff that are not Science but that makes life fun too.
+- Tout ce qui touche à la science !
+- l'histoire
+- la politique
+- l'économie
+- la typographie
 
 <link href="markdown.css" rel="stylesheet"></link>
