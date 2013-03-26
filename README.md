@@ -124,4 +124,4 @@ section, though)
 - Did i mention Science? well, the other stuff are science too, obviously.
 - Silly stuff that are not Science but that makes life fun too.
 
-<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
+<link href="markdown.css" rel="stylesheet"></link>
