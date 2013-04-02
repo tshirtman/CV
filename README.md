@@ -2,7 +2,10 @@
 
 ## Compétences techniques
 
-*Python* - *Kivy* - *Git* - *Linux* - *Vim* - *shell* (*sh*/*bash*/*zsh*) - *C* - *HTML*/*CSS*/*Javascript*/*Ajax* (*JQuery*/*Prototype*) - *Ruby*/*Rails* - *Cython* - *Networks* - *Java*/*JNI* - *Ruby*/*Rails* - *Salt* - *virtualisation*
+*Python* - *Kivy* - *Git* - *Linux* - *Vim* - *shell*
+(*sh*/*bash*/*zsh*) - *C* - *HTML*/*CSS*/*Javascript*/*Ajax*
+(*JQuery*/*Prototype*) - *Ruby*/*Rails* - *Cython* - *Networks* -
+*Java*/*JNI* - *Ruby*/*Rails* - *Salt* - *virtualisation*
 
 ## Expérience
 
@@ -15,9 +18,10 @@
 ### 2011-2013 Tabtou
 
 - Développement d'une solution de modélisation BPMN 2.0 (management des
-processus d'entreprise) avec *Kivy*/*Python-for-android*, Kivy est un framework
-multiplateforme (Windows/Mac/Linux/Android/iOS) permettant la réalisation
-d'interfaces multitouch.
+processus d'entreprise) avec *Kivy*/*Python-for-android*
+
+> Kivy est un framework [[multiplateforme]] (Windows/Mac/Linux/Android/iOS)
+permettant la réalisation d'interfaces multitouch.
 
 ### 2009-2012 AlterWay Solutions
 
@@ -55,21 +59,21 @@ Technologique (IUT) de Valence
 
 ## Projets personnels
 
-### PythonAR
+*PythonAR*
 
-*Python Auto Reloader*, Permet de relancer des processus systèmes sur  
-des évènements de système de fichier (sauvegarde d'un fichier, etc)  
+> *Python Auto Reloader*, Permet de relancer des processus systèmes sur des
+évènements de système de fichier (sauvegarde d'un fichier, etc)  
 
-### PyJNIus
+*PyJNIus*
 
-Une bibliothèque *Cython* permettant d'utiliser ou même de définir des classes 
+> Une bibliothèque *Cython* permettant d'utiliser ou même de définir des classes 
 java depuis Python, d'instancier celles-ci, d'appeler leurs méthodes, ou 
 d'implémenter des interfaces *Java*. Utilisé entre autre pour utiliser l'API 
 *Android* depuis *python-for-android*.
 
-### Ultimate-Smash-Friends (2008-2012)
+*Ultimate-Smash-Friends* (2008-2012)
 
-Un jeu de plateform, en *Python*, projet non totalement abouti, mais
+> Un jeu de plateform, en *Python*, projet non totalement abouti, mais
 reste mon plus gros projet personnel à ce jour.
 
 ## Autres Qualifications

@@ -76,9 +76,9 @@ aside {
     width: 390px;
 }
 blockquote {
-    border-left:.5em solid #eee;
-    padding: 0 2em;
-    margin-left:0;
+    border-left:.3em solid #eee;
+    padding: 1em 2em;
+    margin-left: 2em;
     max-width: 476px;
 }
 blockquote  cite {
