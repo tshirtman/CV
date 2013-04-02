@@ -6,9 +6,11 @@
 
 ## Expérience
 
-### 2013-présent Majerti
+### 2013-présent co-entrepreneur Majerti
 
 - Développement web avec *Pyramid*
+- Relation commerciale
+- Gestion de projet
 
 ### 2011-2013 Tabtou
 
