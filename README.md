@@ -2,35 +2,7 @@
 
 ## Compétences techniques
 
-### Avancé
-
-- `Python`
-- `Kivy`
-- `Git`
-- `Linux`
-- `Vim`
-- `shell` (`sh`/`bash`/`zsh`)
-
-
-### Modéré
-
-- `C`
-- `HTML`/`CSS`/`Javascript`/`Ajax` (`JQuery`/`Prototype`)
-- `Ruby`/`Rails`
-- `Cython`
-- `Networks`
-- `Java`/`JNI`
-- `Ruby`/`Rails`
-- `Salt`
-- `virtualisation`
-
-
-### Débutant, Curieux
-
-- `Lisp`
-- `Go`
-- `Erlang`
-
+`Python` - `Kivy` - `Git` - `Linux` - `Vim` - `shell` (`sh`/`bash`/`zsh`) - `C` - `HTML`/`CSS`/`Javascript`/`Ajax` (`JQuery`/`Prototype`) - `Ruby`/`Rails` - `Cython` - `Networks` - `Java`/`JNI` - `Ruby`/`Rails` - `Salt` - `virtualisation`
 
 ## Expérience
 
@@ -40,7 +12,10 @@
 
 ### 2011-2013 Tabtou
 
-- Développement d'une solution BPMN 2.0 avec `Kivy`/`Python-for-android`
+- Développement d'une solution de modélisation BPMN 2.0 (management des
+processus d'entreprise) avec `Kivy`/`Python-for-android`, Kivy est un framework
+multiplateforme (Windows/Mac/Linux/Android/iOS) permettant la réalisation
+d'interfaces tactiles multitouch.
 
 ### 2009-2012 AlterWay Solutions
 
@@ -83,7 +58,6 @@ Technologique (IUT) de Valence
 `Python Auto Reloader`, Peut être utilisé dans tout types de projets, pas 
 seulement python, permet de relancer des processus systèmes sur des évènements 
 de système de fichier (sauvegarde d'un fichier, etc) 
-<https://github.com/kivy/pythonar>
 
 ### PyJNIus
 
@@ -93,13 +67,12 @@ d'implémenter des interfaces `Java`. Utilisé entre autre pour utiliser l'API
 `Android` depuis `python-for-android`.
 
 En collaboration avec Mathieu Virbel, et l'organisation Kivy
-<https://github.com/kivy/pyjnius>
 
 ### Ultimate-Smash-Friends (2008-2012)
 
 Un jeu de plateform, en `Python`, projet non totalement abouti, je suis passé 
 à d'autres projets, mais celui ci reste mon plus gros projet personnel à ce 
-jour.  <https://github.com/tshirtman/ultimate-smash-friends>
+jour.
 
 ## Autres Qualifications
 
@@ -107,7 +80,3 @@ jour.  <https://github.com/tshirtman/ultimate-smash-friends>
 
 - Français: langue maternelle
 - Anglais: courant (TOEIC 990)
-  
-<https://github.com/kivy/pythonar>
-<https://github.com/kivy/pyjnius>
-<https://github.com/tshirtman/ultimate-smash-friends>
