@@ -21,6 +21,8 @@
 - `Networks`
 - `Java`/`JNI`
 - `Ruby`/`Rails`
+- `Salt`
+- `virtualisation`
 
 
 ### Débutant, Curieux
