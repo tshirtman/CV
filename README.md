@@ -107,3 +107,7 @@ jour.  <https://github.com/tshirtman/ultimate-smash-friends>
 
 - Français: langue maternelle
 - Anglais: courant (TOEIC 990)
+  
+<https://github.com/kivy/pythonar>
+<https://github.com/kivy/pyjnius>
+<https://github.com/tshirtman/ultimate-smash-friends>
