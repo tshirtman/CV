@@ -31,7 +31,7 @@ d'entreprise d'EDF (CCAS), maintien en condition opérationnelles
 - Développement web `PHP` variés
 
 
-## Diplômes
+## Formation
 
 
 ### 2009-2012
