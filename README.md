@@ -15,11 +15,11 @@
 - Développement d'une solution de modélisation BPMN 2.0 (management des
 processus d'entreprise) avec *Kivy*/*Python-for-android*, Kivy est un framework
 multiplateforme (Windows/Mac/Linux/Android/iOS) permettant la réalisation
-d'interfaces tactiles multitouch.
+d'interfaces multitouch.
 
 ### 2009-2012 AlterWay Solutions
 
-- Développement de plugins *Redmine* et customization pour construire une 
+- Développement de plugins *Redmine* et personnalisation pour construire une 
 solution client (*Ruby*/*Rails*)
 - R&D sur Kivy, contributions, développement de solutions prototypes
 - Développement de sites internet avec *Python*/*Pyramid*
@@ -55,9 +55,8 @@ Technologique (IUT) de Valence
 
 ### PythonAR
 
-*Python Auto Reloader*, Peut être utilisé dans tout types de projets, pas 
-seulement python, permet de relancer des processus systèmes sur des évènements 
-de système de fichier (sauvegarde d'un fichier, etc) 
+*Python Auto Reloader*, Permet de relancer des processus systèmes sur  
+des évènements de système de fichier (sauvegarde d'un fichier, etc)  
 
 ### PyJNIus
 
@@ -66,13 +65,10 @@ java depuis Python, d'instancier celles-ci, d'appeler leurs méthodes, ou
 d'implémenter des interfaces *Java*. Utilisé entre autre pour utiliser l'API 
 *Android* depuis *python-for-android*.
 
-En collaboration avec Mathieu Virbel, et l'organisation Kivy
-
 ### Ultimate-Smash-Friends (2008-2012)
 
-Un jeu de plateform, en *Python*, projet non totalement abouti, je suis passé 
-à d'autres projets, mais celui ci reste mon plus gros projet personnel à ce 
-jour.
+Un jeu de plateform, en *Python*, projet non totalement abouti, mais
+reste mon plus gros projet personnel à ce jour.
 
 ## Autres Qualifications
 

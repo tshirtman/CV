@@ -37,12 +37,12 @@ endobj
 % 'Page1': class PDFPage 
 5 0 obj
 % Page dictionary
-<< /Contents 28 0 R
+<< /Contents 27 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 27 0 R
+ /Parent 26 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -53,234 +53,205 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Page2': class PDFPage 
+% 'R6': class PDFCatalog 
 6 0 obj
-% Page dictionary
-<< /Contents 29 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 27 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
-endobj
-% 'R7': class PDFCatalog 
-7 0 obj
 % Document Root
-<< /Outlines 9 0 R
+<< /Outlines 8 0 R
  /PageMode /UseNone
- /Pages 27 0 R
+ /Pages 26 0 R
  /Type /Catalog >>
 endobj
-% 'R8': class PDFInfo 
-8 0 obj
+% 'R7': class PDFInfo 
+7 0 obj
 << /Author ()
- /CreationDate (D:20130402130902-01'00')
+ /CreationDate (D:20130402135628-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (pisa HTML to PDF <http://www.htmltopdf.org>)
  /Subject ()
  /Title () >>
 endobj
-% 'R9': class PDFOutlines 
-9 0 obj
+% 'R8': class PDFOutlines 
+8 0 obj
 << /Count 6
- /First 10 0 R
- /Last 10 0 R
+ /First 9 0 R
+ /Last 9 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-10 0 obj
+9 0 obj
 << /Count -5
  /Dest [ 5 0 R
  /Fit ]
- /First 11 0 R
- /Last 25 0 R
- /Parent 9 0 R
+ /First 10 0 R
+ /Last 24 0 R
+ /Parent 8 0 R
  /Title (Gabriel Pettier) >>
 endobj
 % 'Outline.2.0': class OutlineEntryObject 
-11 0 obj
+10 0 obj
 << /Dest [ 5 0 R
  /Fit ]
- /Next 12 0 R
- /Parent 10 0 R
+ /Next 11 0 R
+ /Parent 9 0 R
  /Title (Comp\351tences techniques) >>
 endobj
 % 'Outline.2.1': class OutlineEntryObject 
-12 0 obj
+11 0 obj
 << /Count -5
  /Dest [ 5 0 R
  /Fit ]
- /First 13 0 R
- /Last 17 0 R
- /Next 18 0 R
- /Parent 10 0 R
- /Prev 11 0 R
+ /First 12 0 R
+ /Last 16 0 R
+ /Next 17 0 R
+ /Parent 9 0 R
+ /Prev 10 0 R
  /Title (Exp\351rience) >>
 endobj
 % 'Outline.3.0': class OutlineEntryObject 
+12 0 obj
+<< /Dest [ 5 0 R
+ /Fit ]
+ /Next 13 0 R
+ /Parent 11 0 R
+ /Title (2013-pr\351sent Majerti) >>
+endobj
+% 'Outline.3.1': class OutlineEntryObject 
 13 0 obj
 << /Dest [ 5 0 R
  /Fit ]
  /Next 14 0 R
- /Parent 12 0 R
- /Title (2013-pr\351sent Majerti) >>
+ /Parent 11 0 R
+ /Prev 12 0 R
+ /Title (2011-2013 Tabtou) >>
 endobj
-% 'Outline.3.1': class OutlineEntryObject 
+% 'Outline.3.2': class OutlineEntryObject 
 14 0 obj
 << /Dest [ 5 0 R
  /Fit ]
  /Next 15 0 R
- /Parent 12 0 R
+ /Parent 11 0 R
  /Prev 13 0 R
- /Title (2011-2013 Tabtou) >>
+ /Title (2009-2012 AlterWay Solutions) >>
 endobj
-% 'Outline.3.2': class OutlineEntryObject 
+% 'Outline.3.3': class OutlineEntryObject 
 15 0 obj
 << /Dest [ 5 0 R
  /Fit ]
  /Next 16 0 R
- /Parent 12 0 R
+ /Parent 11 0 R
  /Prev 14 0 R
- /Title (2009-2012 AlterWay Solutions) >>
-endobj
-% 'Outline.3.3': class OutlineEntryObject 
-16 0 obj
-<< /Dest [ 5 0 R
- /Fit ]
- /Next 17 0 R
- /Parent 12 0 R
- /Prev 15 0 R
  /Title (2008-2009 Linterweb SARL) >>
 endobj
 % 'Outline.3.4': class OutlineEntryObject 
-17 0 obj
+16 0 obj
 << /Dest [ 5 0 R
  /Fit ]
- /Parent 12 0 R
- /Prev 16 0 R
+ /Parent 11 0 R
+ /Prev 15 0 R
  /Title (2006-2007 Equaly SARL) >>
 endobj
 % 'Outline.2.2': class OutlineEntryObject 
-18 0 obj
+17 0 obj
 << /Count -2
  /Dest [ 5 0 R
  /Fit ]
- /First 19 0 R
- /Last 20 0 R
- /Next 21 0 R
- /Parent 10 0 R
- /Prev 12 0 R
+ /First 18 0 R
+ /Last 19 0 R
+ /Next 20 0 R
+ /Parent 9 0 R
+ /Prev 11 0 R
  /Title (Formation) >>
 endobj
 % 'Outline.4.0': class OutlineEntryObject 
-19 0 obj
+18 0 obj
 << /Dest [ 5 0 R
  /Fit ]
- /Next 20 0 R
- /Parent 18 0 R
+ /Next 19 0 R
+ /Parent 17 0 R
  /Title (2009-2012) >>
 endobj
 % 'Outline.4.1': class OutlineEntryObject 
-20 0 obj
-<< /Dest [ 6 0 R
+19 0 obj
+<< /Dest [ 5 0 R
  /Fit ]
- /Parent 18 0 R
- /Prev 19 0 R
+ /Parent 17 0 R
+ /Prev 18 0 R
  /Title (2004-2006) >>
 endobj
 % 'Outline.2.3': class OutlineEntryObject 
-21 0 obj
+20 0 obj
 << /Count -3
- /Dest [ 6 0 R
+ /Dest [ 5 0 R
  /Fit ]
- /First 22 0 R
- /Last 24 0 R
- /Next 25 0 R
- /Parent 10 0 R
- /Prev 18 0 R
+ /First 21 0 R
+ /Last 23 0 R
+ /Next 24 0 R
+ /Parent 9 0 R
+ /Prev 17 0 R
  /Title (Projets personnels) >>
 endobj
 % 'Outline.5.0': class OutlineEntryObject 
-22 0 obj
-<< /Dest [ 6 0 R
+21 0 obj
+<< /Dest [ 5 0 R
  /Fit ]
- /Next 23 0 R
- /Parent 21 0 R
+ /Next 22 0 R
+ /Parent 20 0 R
  /Title (PythonAR) >>
 endobj
 % 'Outline.5.1': class OutlineEntryObject 
-23 0 obj
-<< /Dest [ 6 0 R
+22 0 obj
+<< /Dest [ 5 0 R
  /Fit ]
- /Next 24 0 R
- /Parent 21 0 R
- /Prev 22 0 R
+ /Next 23 0 R
+ /Parent 20 0 R
+ /Prev 21 0 R
  /Title (PyJNIus) >>
 endobj
 % 'Outline.5.2': class OutlineEntryObject 
-24 0 obj
-<< /Dest [ 6 0 R
+23 0 obj
+<< /Dest [ 5 0 R
  /Fit ]
- /Parent 21 0 R
- /Prev 23 0 R
+ /Parent 20 0 R
+ /Prev 22 0 R
  /Title (Ultimate-Smash-Friends \(2008-2012\)) >>
 endobj
 % 'Outline.2.4': class OutlineEntryObject 
-25 0 obj
+24 0 obj
 << /Count -1
- /Dest [ 6 0 R
+ /Dest [ 5 0 R
  /Fit ]
- /First 26 0 R
- /Last 26 0 R
- /Parent 10 0 R
- /Prev 21 0 R
+ /First 25 0 R
+ /Last 25 0 R
+ /Parent 9 0 R
+ /Prev 20 0 R
  /Title (Autres Qualifications) >>
 endobj
 % 'Outline.6.0': class OutlineEntryObject 
-26 0 obj
-<< /Dest [ 6 0 R
+25 0 obj
+<< /Dest [ 5 0 R
  /Fit ]
- /Parent 25 0 R
+ /Parent 24 0 R
  /Title (Languages) >>
 endobj
-% 'R27': class PDFPages 
-27 0 obj
+% 'R26': class PDFPages 
+26 0 obj
 % page tree
-<< /Count 2
- /Kids [ 5 0 R
- 6 0 R ]
+<< /Count 1
+ /Kids [ 5 0 R ]
  /Type /Pages >>
 endobj
-% 'R28': class PDFStream 
-28 0 obj
+% 'R27': class PDFStream 
+27 0 obj
 % page stream
 << /Filter [ /ASCII85Decode
  /FlateDecode ]
- /Length 1494 >>
+ /Length 2305 >>
 stream
-Gb"/'>>l_+'RmO6s)=QAED)`q?fBBu*Hssn'PaO\bEpRDNS?D@BpAGdHP1!()sdc3VeTMB\9*-j^7<Aj:-ub7(X_\;"Rp[:X^_FNK#';Ua)GF*$:fa)Sbq66$iNh4,HS=^4.bJ`mro3"fJ\as!"`h,igFZ9^'bI`4#fHM>-_YFeNsl#eo[V:Ym%S6Q8VDIs8:<C\:MX93Y\*<csoso-MChd#D:nkbDUu6`G2umA$dcM>)$f+X%_/)g29Cm[N*1;#[;`miGK:)=11aIMZ]8rAAN-,mrOes8_n/`;^]SDpsYR`*EZurdns<lmHFiARBm?<7f:6'g-BR#Dj+;0<BHc^BL!5CO,>q9htVFo"87Gl)Q6RUkDqK>J+BNB._B8#=Me?$b.*e2ek=)Gec>Y"A$5NknEST_IPNlEX^&*bmoNu4dP8uJ_:+SG9@/;Q=uLi_>[K.)-;$HTc.3Pb9]RI1bA:(P_))"#5-1@JP4C<-@D6X8n3(FT+VB4UR8[7og>(k@e<k!OHgT:d:2Z'%O?!bq7O=[pAdoc$9Z)9c#sEUa$AuEU'"T]$':5_`9s;7+6FfS+oX%eJL/kHXb5")&b9V6e'oI"N@L6]>NX<hZjR%8"-1;#GKG<EPY2QS*q`IbkJ/_S.p[q#*/s[<A3=l&Mi.Jl0WSA1\]sbkQ1>J7N8XcqUg$aJ$JW<l0$KKu2d"m_i_`$]DD.;O*(u)-.E4-fPUoAqO#';8WI*KHH>d'=[!_p`8AV!e-YKWDO.?m<:jY;B=$$.D?0ObS>,6]R(&3fj6cG;80/9VVbl-4#a2K#KbY^aje$tmChJu+'3$nI^&bp>)Hd28.,UomY@lU3RD4;,aeYb)BX#;m*t9L9f<2$Q9D"Uh%ePWTDSA2lPX8GrdS8'+-L3hnu62c?c1l'*e!]mmFkY\g0EnPW9?@RrdXel,_eD=UdaED:T18d!1&r1Y"FW!mR'[fkhC%-\V"GKr+QUU&-rK+N8(K2/((MiW!BFLt6saaX`@`l(Ker.`6p\_ghjLrZ>e&=A+ncX[[YT@<:&P?^A'?B?AoK#'e9"sI(6PWR=<gSoI%XC"M7mt5rc;U=7q2#TCe%"5!@C0u6]$9jt,dQWVUKLk&rXf^%S6M:U*3$6WTbH`e]'"(p/GDqrtU4$3g0NqA@hUlBk3+`oFF:J8`Fhca3iX_s@9WH;&+'bD?WVMk/W?f4;%d)Ac>H9B12@@2TWpCO#4IR]2f>76HfZuo^:^k<:@G#)[UNb.U$@U!gMqTi7n:_&SIiKIMUXF@u#M?WS08W'_e8T^b#_;rR4!UnD6o$n^l=ps<0O4Lpc*Gpmm=//68lls'&qtFK8Q`4`$4Q1OQ1k\kQNU)UJe(BG3=R@*kQ,\Z9%G(/AmV"8N\5Z4UmXP(h'Tdn.0R.<XrRI6b1DG"c;NE`n;.%X?g$#q-$u9V9!0+3_=\i$QAiNZdijI"&Fu9"[X9*@N2Q#:DGF%IbUTXmdc'm7VQd](%j^^2T`~>endstream
-endobj
-% 'R29': class PDFStream 
-29 0 obj
-% page stream
-<< /Filter [ /ASCII85Decode
- /FlateDecode ]
- /Length 1306 >>
-stream
-Gb!l^:QOKn'Ys/^c$+EA@4K@:8Ou0dF:/`9h3OI`4`Tup"%J<7[2l:Cp3f[;bQ;!>]Ac_M&sV&;n*dr&#e9XUeMYSOIS&I39RqAL/:dq!!6HT*-22Ujn*cjK.qs0OZ/Z't&4/5CSUTMo\Gr$%"F=VYbTU:7rjoj3q.-[l&1;Wu6O"gEHCi,_UY50(r'VoV[=Z[lY3(2*8Bsg29S.`B"s:>mK>dqZb?SW.n6A/*VV3^-?5H)kQdMT:;l[?VKOb2,:R+l)4/\[bmp//p?^JD5j65"+^,'`Gb.H$jpAW$rIr=;udG=Z^\Sfd39A%fn1:Y3L+.%aiB*mqBrO'T-1]8pD)IG*hD%pVL_qYc-&.]GR%6(,7RH.SL1cLXL"pmrS1)KbdOu)Q#B$'r_jhV`_QqUZ+8;'jtEA'_sF8GmH=@>p>+4sD7J`H3NiC0)r2HBR-)%?a1PtQrd\$anMSbT(P:#F/UQc#/ULA#-G$:C<0T'+?;*:r<"_-:b0$qlf%$PPO+0NHeT^pSePcB'Y(cniaCBt3*TFphDKWPRZjd_$;#-c/m53U9!t&R8?DQ8**HW:Y1K.Pk]'6H''r$Ipb,*D8H]:79\p\'/XS8bT::\[;rZ-+)+p^/6UenoW-]4j?'WQ<UelC1/&`.<f^A^e?e=Cn%"=FM\u<o^VZIfp;@Tnuf4g(o-[b"jt*L?Sfg^Q+mZtS$btKD*8>(3ug=(.Me$nCX=aLBu,a.OC9L-&i**dS_o,i@*'^uJOfsp)XeWVV>-]3\V=fcRN5TNV5=)1@jr(Cl!DO"HWh+WTF-6+:KL^*DFM*AWtkAAKs2(>CTLRXmB7g)7Sg\nLc-7MjM:+Y/1:\&LR.X;jG<Hb8+A:':3JP0'029bQ1MsdU`*$i/Z<HdLVolWcgPu0o&L&-oCN-^hag)&$UJ-@<Ll$uDHR==WPR"7i<r_j9\9]lLuiA?-.hgqhtZoIV/-&QG(Q3LoLp*^;k<U\bc"kB`]1lt!h5WAS&BP0+^XKKj9ONV::(u[f9J@40I+$`$ZsL^=1\+XG`:_UCoMWJ.01'&B6$A/+b=pZRcpJZD#">rNf^hoWe1csXK<Lk(bloI79ItaLQpga_3=,tdPDSC#TP*?Q1).$%MH1fPedP3Z#*KcL^pu_8SD4Qr`i@;EKX>O[iGrb8=[LjM>p!*Wh_/rg/?83B^'`Pc0>80J&(i0j;!S7EtUp,,M%d2?&tXD(Qq4fZ5P5COj"*ArY^BK*Wt.PPdGLI(WG5sppC-Fs/,l<b*AoWR:;`APJt1ur%XXfJAK#aFPHg4:g=+sGCK^VEkaU~>endstream
+Gb"/)D0+Dj&H:OSr.k5m,r]60JdpKo8s5KHOqL+8R2`jGUCcNtRohF[map>g]Z*3q#q[r-P7/"L/Zj1<m68/!!Y^&8rTXUf+1b94ZbWl?HOElnW'L(s::j$b*ff)_kuVZsKO$C(MHB>@>'KM#j5BOT"=ts(o4s(^X1IeFoF<79#ri,qEfIZp5rSee1MepOq90&DVPZ:G%tCT0n*pqr+%\\/PXCp4a_6&1h0\AbWAVAXBmR0ijf2s\odl@YVIshoflgZ'ZX^LdS_YifRo(m)3NaZBkYhMFqKF*08>sV1IDsDe\5B:d'8%r%V3bW&7a6)J3i8rsTWT)>:R+_hX$sCfjBWI7NRb&:HiZhn]eUV%n2D:NAI<ir1/m>*Kus'_WNRkoPS&,(o<_K#YTf>F.Am=F,ZEd='oCf;W]n[$NB_P=c82>4?=.>9HmW>Ir0WJl[S@2gm`C?[=3U:3.\Uk9Zg!V+E?le)1nn2VTp,,TL?fDj7Ad>YgB$o/b/Yq0GBLRO-@B^A/E:'F12#Cs$Ejc^hCi@SbCjg]Lh'G*jG5@qFb$uHqH\kFN9;#oo4i)&L6\aCmC=08Xr);n51/%AXG,)K!ACKjS!Htk`Cb8=6O=RiT#QrT>_#nX)jN:s]S6bEQE[0nWK`mlD3_-/gF^mQ.G\?egiLhY+^=/5eZ)r3>/f2(ZE+8qlJdNc5UZ!k`DeKbEM<k#VE>cVBV=_d8GbZle5%=#r=kHG%;'c8/S<bV`1(:"bA]7/b`BW'<Dm4V0'UP-aU95lDH,6SJ/84H=GHt)"t2&;g(0DPmuribLj5YG+:KY$d6J#_iZ`b`?X/2"R$ch6&sD5G3M^5]3'qd8&qQh9[?ut`-7GaoFkBqdF&nHtc:b"g-n^X$&4]YE0-2Nn)?m($CEQqS6F]J^;jF^48@W1T:*dg;!fG-MA)SPV']f_^QShbm2^X`Qfp?JRH:1V*8qMu]"E^l:-O3m!$RLdNM5$bkCkSF1B=nG"Rq,37nY+sL=]bLDL'G]KINqX-4[hhHk3Z2bL@mW1l^\)%Sd\aM<p1#6">!5F5G1n_;++j&^u$P4@dqbS1/:qFiRt+$3E$Tn0[Lj)<:>)+"QI"2eEn8>Ic6@0gBe/XQO6b^jY[p^raZf[@B]qX1Jd:t3iNA&.t$9f;'2moH@e_IfK+84\?XVkVD[J^C2S>D[<gu#9es.kfS?2%B!%lg5FcM!.>iE,ka^fEq\9P:Q+'Jm/r28j8?bEZTj2)J^;$!H)&#E6:bq\?m%=!Lp*A41$I'u,;Eb#<?K",H-YF:_S';/cQ6HHH5"ks,Ii)r*Cq6!?k"!gpG16gEUn$W9VH)F,cM^069=hSE70+dJa+e5]h'>oR%JO8;cr73C$E"C@iD2N=#0TrZq2Lqe`HBmK6_=W175\jO@12P9RD$UiU6Q5JqVl7N<6qQDp?84kPIC1_G1pY?&i8>EgQT`<a],<F`//n$-I8p;hPH4s\95\NE3Ym6AL)<hXj<6[$7cNL5=sQ1ENO2YO:sC,nH%+OGS5lNQiY`sM;+Hgb83PhG6>G_Ve;RL<Y=$k]"Db6;6B5<Z-\BN1gXLR9dJ"%0\Wj/:2[Ws2uQ*1F[p9,(rbtK$'sn9Ee,L?@KM&:_YThF7)D[>``V4V8Q7G%<QCR@O+qtN?D2Mjm2[^Wpm(=h)Z=hr)uo:e!jq"O?8:)Hl[n]?Yd6K*D;"b!?oQ2eND<f>mAf,]NOg3P\dXQd7aSt^6jD,HrT/3:>PBrhP[_d871uL:\'':jnt?:b(+:RcS`eMY;!5A\os,9X.,6TXNo?YEJfr1&%S8dURc)EX'X>=@(G''#_j^8+KuQo>_WT*COr(`2($GN=h_Wn/'&=\$m'AlgOh=Vq;*e`n'AoXH2u63'Noag\;$$b.@o#4ggJt^6A/"&!S-X]7pLHte_C/hpZg,Ab3Y_r@bu]_jFb*]dRCZ.T.<2AFg*@G[F:02,nVT+a(N<E&4rA9^;k\%8eYT_ORa_,_M@@#BX3a;A/t%89l;a2#o+gijNHQg8>\!/X_eb;]iDJ/t7G`XtbB;F"l(<M$)_N#j0Nu$tLq"t+WPdfuDZ3d3aKfmU?d!FF&'+F7Nc.7oVobaf5!ANe.]TjM'i\-5&X+#a(f4ch1$`R\:\kZ47X%r;##M*r&?&nta1s]o,;FO]T(44RhPY=RGfpNsCE!QG4)Hq+rXa%F^'K9ES*Y1H;m0q&C`NMgk9M#oA@TMn_t8-r<`K([Mq>;&KS\&+6M`@nb'F>.U:]G&Y[>f7I]EZiKL;o%l/S?_qA?C4jg<QkHJNu!8_UI9;$N';r==AETCM~>endstream
 endobj
 xref
-0 30
+0 28
 0000000000 65535 f
 0000000113 00000 n
 0000000233 00000 n
@@ -288,37 +259,35 @@ xref
 0000000567 00000 n
 0000000736 00000 n
 0000001015 00000 n
-0000001294 00000 n
-0000001429 00000 n
-0000001662 00000 n
-0000001786 00000 n
-0000001964 00000 n
-0000002125 00000 n
-0000002332 00000 n
-0000002491 00000 n
-0000002658 00000 n
-0000002837 00000 n
-0000003012 00000 n
-0000003169 00000 n
-0000003372 00000 n
-0000003517 00000 n
-0000003662 00000 n
-0000003874 00000 n
-0000004018 00000 n
-0000004176 00000 n
-0000004348 00000 n
-0000004548 00000 n
-0000004660 00000 n
-0000004775 00000 n
-0000006412 00000 n
+0000001150 00000 n
+0000001383 00000 n
+0000001505 00000 n
+0000001682 00000 n
+0000001842 00000 n
+0000002048 00000 n
+0000002207 00000 n
+0000002374 00000 n
+0000002553 00000 n
+0000002728 00000 n
+0000002885 00000 n
+0000003087 00000 n
+0000003232 00000 n
+0000003377 00000 n
+0000003588 00000 n
+0000003732 00000 n
+0000003890 00000 n
+0000004062 00000 n
+0000004261 00000 n
+0000004373 00000 n
+0000004480 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\034\226%iQ4\011\323\360\375\017\351\271\017\007`) (\034\226%iQ4\011\323\360\375\017\351\271\017\007`)] 
+ [(:\342\271\(\346\216y\035\303D\\.\266\244\003K) (:\342\271\(\346\216y\035\303D\\.\266\244\003K)] 
 
- /Info 8 0 R
- /Root 7 0 R
- /Size 30 >>
+ /Info 7 0 R
+ /Root 6 0 R
+ /Size 28 >>
 startxref
-7834
+6901
 %%EOF
