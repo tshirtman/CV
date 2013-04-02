@@ -1,7 +1,36 @@
 # Gabriel Pettier
 
-## Expérience
+## Compétences techniques
 
+### Avancé
+
+- `Python`
+- `Kivy`
+- `Git`
+- `Linux`
+- `Vim`
+- `shell` (`sh`/`bash`/`zsh`)
+
+
+### Modéré
+
+- `C`
+- `HTML`/`CSS`/`Javascript`/`Ajax` (`JQuery`/`Prototype`)
+- `Ruby`/`Rails`
+- `Cython`
+- `Networks`
+- `Java`/`JNI`
+- `Ruby`/`Rails`
+
+
+### Débutant, Curieux
+
+- `Lisp`
+- `Go`
+- `Erlang`
+
+
+## Expérience
 
 ### 2013-présent Majerti
 
@@ -70,56 +99,9 @@ Un jeu de plateform, en `Python`, projet non totalement aboutis, je suis passé
 à d'autres projets, mais celui ci reste mon plus gros projet personnel à ce 
 jour.  <https://github.com/tshirtman/ultimate-smash-friends>
 
-## Compétences techniques
-
-### Expert
-
-Je ne me considère pas comme expert en quoi que ce soit, par ce qu'il y a 
-toujours beaucoup à apprendre, mais certains peuvent me considérer comme expert 
-dans certaines des compétences que je mets dans la catégorie suivante.
-
-
-### Avancé
-
-- `Python`
-- `Kivy`
-- `Git`
-- `Linux`
-- `Vim`
-- `shell` (`sh`/`bash`/`zsh`)
-
-
-### Modéré
-
-- `C`
-- `HTML`/`CSS`/`Javascript`/`Ajax` (`JQuery`/`Prototype`)
-- `Ruby`/`Rails`
-- `Cython`
-- `Networks`
-- `Java`/`JNI`
-
-
-### Débutant, Curieux
-
-- `Lisp`
-- `Go`
-- `Erlang`
-
-
 ## Autres Qualifications
 
 ### Languages
 
 - Français: langue maternelle
 - Anglais: courant (TOEIC 990)
-
-
-## Intérêts divers
-
-- Tout ce qui touche à la science !
-- l'histoire
-- la politique
-- l'économie
-- la typographie
-
-<link href="markdown.css" rel="stylesheet"></link>
