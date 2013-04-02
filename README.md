@@ -95,7 +95,7 @@ En collaboration avec Mathieu Virbel, et l'organisation Kivy
 
 ### Ultimate-Smash-Friends (2008-2012)
 
-Un jeu de plateform, en `Python`, projet non totalement aboutis, je suis passé 
+Un jeu de plateform, en `Python`, projet non totalement abouti, je suis passé 
 à d'autres projets, mais celui ci reste mon plus gros projet personnel à ce 
 jour.  <https://github.com/tshirtman/ultimate-smash-friends>
 
