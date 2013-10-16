@@ -2,7 +2,19 @@
 
 ## Experience
 
-### 2011-2012 Tabtou
+### 2013 Majerti
+
+- Pyramid web development for an in-flight content management system for
+  commercial aircrafts.  ### 2011-2012 Tabtou
+    - Jinja templating
+    - System conception and development
+    - Jquery frontend development
+
+- Mobile application development using Kivy, for alert management.
+    - Interface conception and development
+    - Android service and UI implementation
+    - Connection and communication with alert server
+    - Android build and deployment.
 
 - BPMN 2.0 solution development using Kivy/Python-for-android
     - Implementation of BPMN 2.0 specification
