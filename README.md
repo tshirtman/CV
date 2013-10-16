@@ -3,9 +3,17 @@
 ## Experience
 
 
-### 2013-now Majerti
+### 2013 Gihux.com
+
+- Infrastructure research and administration
+
+- UI design and development for Android/iOS applications with Kivy
+
+### 2013 Majerti
 
 - `Pyramid` web development.
+
+- Mobile application development using Kivy, for alert management.
 
 ### 2011-2013 Tabtou
 
