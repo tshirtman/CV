@@ -2,6 +2,14 @@
 
 ## Experience
 
+### 2013 Gihux.com
+
+- Infrastructure research and administration for Majerti
+    - Proftpd, ldap, ajaxplorer solution deployment
+    - Integration of services with saltstack
+
+- UI design and development for Android/iOS applications with Kivy
+
 ### 2013 Majerti
 
 - Pyramid web development for an in-flight content management system for
