@@ -110,6 +110,7 @@ section, though)
 
 ### Begginer/Curious
 
+- `Haskell`
 - `Lisp`
 - `Go`
 - `Erlang`
