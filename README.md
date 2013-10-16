@@ -5,51 +5,51 @@
 ### 2013 Gihux.com
 
 - Infrastructure research and administration for Majerti
-    - Proftpd, ldap, ajaxplorer solution deployment
-    - Integration of services with saltstack
+    - `Proftpd`, `ldap`, `ajaxplorer` solution deployment
+    - Integration of services with `saltstack`
 
-- UI design and development for Android/iOS applications with Kivy
+- UI design and development for `Android`/`iOS` applications with `Kivy`
 
 ### 2013 Majerti
 
-- Pyramid web development for an in-flight content management system for
+- `Pyramid` web development for an in-flight content management system for
   commercial aircrafts.
-    - Jinja templating
+    - `Jinja` templating
     - System conception and development
-    - Jquery frontend development
+    - `Jquery` frontend development
 
-- Mobile application development using Kivy, for alert management.
+- Mobile application development using `Kivy`, for alert management.
     - Interface conception and development
-    - Android service and UI implementation
+    - `Android` service and UI implementation
     - Connection and communication with alert server
-    - Android build and deployment.
+    - `Android` build and deployment.
 
 ### 2011-2012 Tabtou
 
-- BPMN 2.0 solution development using Kivy/Python-for-android
-    - Implementation of BPMN 2.0 specification
-    - User Interface/interaction design and implementation using Kivy
+- `BPMN` 2.0 solution development using `Kivy`/`Python-for-android`
+    - Implementation of `BPMN` 2.0 specification
+    - User Interface/interaction design and implementation using `Kivy`
     - UnitTest system
-- Kivy core-dev
+- `Kivy` core-dev
     - Bezier curves/dashed lines implementation
     - Documentation work/lots of various fixes
     - Extension of recording module for better testing possibilities
-- Python-for-android (kivy)
+- `Python-for-android` (`Kivy`)
     - Add intent-filters support to packages
-    - Devolopment of PyJNIus as a better way to use Android API
+    - Devolopment of `PyJNIus` as a better way to use `Android` API
 
 
 ### 2009-2012 AlterWay Solutions
 
-- Redmine Plugins development and customization to build custom client
-  solutions (Ruby/Rails)
-    - Human Ressources Management interface for Olympus, based on Redmine
-    - Redmine Project Management plugin for Alterway.
-    - Prepaid Ticket service for French Ministery contractors, based on Redmine
-- R&D work on Kivy, with contributions, prototype solutions development
+- `Redmine` Plugins development and customization to build custom client
+  solutions (`Ruby`/`Rails`)
+    - Human Ressources Management interface for Olympus, based on `Redmine`
+    - `Redmine` Project Management plugin for Alterway.
+    - Prepaid Ticket service for French Ministery contractors, based on `Redmine`
+- R&D work on `Kivy`, with contributions, prototype solutions development
     - GridLayout port from PyMT
     - Various intern showcases for kivy technology
-- Website Devolpment using Python/Pyramid
+- Website Devolpment using `Python`/`Pyramid`
     - Showroom: application deployment from a web interface
 - AdminProxy, bastion software, for centralized access management to resources
     - Work on Web interface, lot of fixes
@@ -62,20 +62,20 @@
 
 ### 2008-2009 Linterweb SARL
 
-- PHP developpment for French electricity company (EDF) works
+- `PHP` developpment for French electricity company (EDF) works
   concil.
-    - Maintenance and evolution of various custom based PHP websites and
+    - Maintenance and evolution of various custom based `PHP` websites and
     infrastructure solutions.
-- Joomla Development
+- `Joomla` Development
     - New features for ABCvert.com (site have been redone since)
 
 
 ### 2006-2008 Equaly SARL
 
-- Work on ERP implemention based on ERP5 (Zope/Python) for the cwdsellier company
+- Work on `ERP` implemention based on ERP5 (`Zope`/`Python`) for the cwdsellier company
     - Implementation of company workflows
     - Creation of invoice production system (pdf)
-- Various PHP web development
+- Various `PHP` web development
 
 
 ## Degrees
@@ -95,23 +95,22 @@ Institute (IUT) of Valence (France)
 
 ### PythonAR
 
-A python Auto Reloader, can be used for all sort of projects, not just
-python, allow to start and restart jobs based on FileSystem events, with
-a lot of filters to restart only on the right events.
-under the Kivy organisation
+A Python Auto Reloader, can be used for all sort of projects, not just `python`,
+allow to start and restart jobs based on FileSystem events, with a lot of
+filters to restart only on the right events.  under the `Kivy` organisation
 <https://github.com/kivy/pythonar>
 
 ### PyJNIus
 
-A Cython lib to use Java classes directly from Python, using JNI. Allow
-to instanciate classes, call their methods, and soon to implement Java
-interfaces directly from Python Classes.
-In collaboration with Mathieu Virbel, with the Kivy organisation
+A `Cython` lib to use `Java` classes directly from `Python`, using `JNI`. Allow
+to instanciate classes, call their methods, and to implement `Java`
+interfaces directly from `Python` Classes.
+In collaboration with Mathieu Virbel, with the `Kivy` organisation
 <https://github.com/kivy/pyjnius>
 
 ### Ultimate-Smash-Friends (since 2008)
 
-A plateform fight game, in Python, i moved on to other things now, but
+A plateform fight game, in `Python`, i moved on to other things now, but
 to date, my biggest personnal project. Got a few contributors, now hosted on Github:
 <https://github.com/tshirtman/ultimate-smash-friends>
 
@@ -126,29 +125,30 @@ section, though)
 
 ### Advanced
 
-- Python
-- Kivy
-- Git
-- Linux
-- Vim
-- shell (sh/bash/zsh)
+- `Python`
+- `Kivy`
+- `Git`
+- `Linux`
+- `Vim`
+- `shell` (`sh`/`bash`/`zsh`)
 
 
 ### Moderate
 
-- C
-- HTML/CSS/Javascript/Ajax (JQuery/Prototype)
-- Ruby/Rails
-- Cython
-- Networks
-- Java/JNI
+- `C`
+- `HTML`/`CSS`/`Javascript`/`Ajax` (`JQuery`/`Prototype`)
+- `Ruby`/`Rails`
+- `Cython`
+- `Networks`
+- `Java`/`JNI`
 
 
 ### Begginer/Curious
 
-- Lisp
-- Go
-- Erlang
+- `Haskell`
+- `Lisp`
+- `Go`
+- `Erlang`
 
 
 ## Other Qualifications
