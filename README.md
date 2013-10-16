@@ -13,7 +13,7 @@
 ### 2013 Majerti
 
 - Pyramid web development for an in-flight content management system for
-  commercial aircrafts.  ### 2011-2012 Tabtou
+  commercial aircrafts.
     - Jinja templating
     - System conception and development
     - Jquery frontend development
