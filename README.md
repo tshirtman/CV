@@ -3,9 +3,17 @@
 ## Expérience
 
 
-### 2013-présent Majerti
+### 2013 Gihux.com
+
+- Recherche et administration système pour Majerti. (`Linux`, `Debian`, `Salt`, `LDAP`, `FTP`)
+
+- Conception et développement Interface Utilisateur pour application `Android`/`iOS` avec `Kivy`
+
+### 2013 Majerti
 
 - Développement web avec `Pyramid`
+
+- Development application mobile avec `Kivy` pour gestion d'alertes.
 
 ### 2011-2013 Tabtou
 
