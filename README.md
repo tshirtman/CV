@@ -3,6 +3,10 @@
 ## Experience
 
 
+### 2013 Cloudwatt
+
+- OpenStack development: UI implementation in horizon (`python`/`django`/`javascript`/`angularjs`)
+
 ### 2013 Gihux.com
 
 - Infrastructure research and administration
