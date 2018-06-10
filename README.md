@@ -100,7 +100,23 @@ Information System BSc (two years) at the University Technology
 Institute (IUT) of Valence (France)
 
 
-## Personnal Projects
+## Personnal Projects / Open source contributions
+
+### Kivy
+I'm a contributor and a core developer to the Kivy project since the early
+days, and I've contributed a lot of things to it, most importantly:
+- The OscPy project to replace its shipped aging OSC implementation
+- Numerous improvements to its SVG implementation
+- PageLayout widget
+- KViewer tool to rapidly iterate design
+- RoundedRectangle instruction
+
+
+### OscPy
+
+A fast and modern implementation, of the OSC protocol, supporting python2 and
+python3, with a good test coverage, and good separation of concerns.
+<https://github.com/kivy/oscpy>
 
 ### PythonAR
 
