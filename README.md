@@ -118,7 +118,9 @@ days, and I've contributed a few important things to it, and a lot of less impor
     - AnimLabel_bezier (https://github.com/kivy-garden/garden.animlabel_bezier)
 - KViewer tool to rapidly iterate design
 - RoundedRectangle instruction
-- A lot of examples, bugfixes, documentation and advocacy for the community.
+- A better vim syntax file
+- A lot of examples, bugfixes, documentation, mentorship and advocacy for the
+  community.
 
 
 ### OscPy
