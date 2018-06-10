@@ -70,7 +70,7 @@ Projects for: Paco Rabanne, Armani, SNCF, EDF, Glenmorangie, ATS, WNE,
 - `Redmine` Plugins development and customization to build custom client
   solutions (`Ruby`/`Rails`)
 - R&D work on `Kivy`, with contributions, prototype solutions development
-- Website Devolopment using `Python`/`Pyramid`
+- Website Development using `Python`/`Pyramid`
 
 ### 2008-2009 Linterweb SARL
 
