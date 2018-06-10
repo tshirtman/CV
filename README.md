@@ -2,8 +2,50 @@
 
 ## Experience
 
+### 2014-present Tangible Display
 
-### 2013 Cloudwatt
+Technologies: Python, Kivy, R, Docker, Docker-compose, Debian, Gentoo, Arduino,
+  PyInstaller, Innosetup, Buildozer, Windows, Linux, OSX, BLE, JNI, Cython, Bash,
+  Bourn Shell, Makefile. GLSL, Electron, ELK, LIDAR, GitLab
+
+- Interaction/Multimedia development with Kivy:
+  - Design, implementation, integration of mutlitouch & tangible UX for
+    multiple clients, and internal products.
+  - Development of a patented method to detect and classify phygital markers,
+    allowing customers to configure their objects, and send detection info to
+    third party application, into a product (ObjectViz).
+  - Design and implementation of a Tangible application framework, with
+    a plugin discovery system, and ability to define interaction with external
+    applications, with custom UI to physical objets on multitouch tables.
+  - Design and development of a data exploration solution, Tangible Data,
+    delegating tasks to R, and displaying the result both natively in Kivy and
+    Electron using web technologies.
+  - Design and development of a drag and drop CMS for tangible applications,
+    allowing users to attach multimedia content to objects.
+  - Design and implementation of a cryptographic license system, to tie
+    distributed software to customer's computers. Implementation of a dongle
+    based license solution to allow for license portability.
+  - Development of a 3D point cloud visualisation system for LIDAR data, with
+    multitouch navigation, level of detail loading by proximity to camera,
+    working smoothly with dozens of millions of points.
+  - Implement Arduino based applications to drive boards managing LEDs and
+    RFIDs.
+  - Implement usage data collection and presentation using the ELK stack.
+- DevOps
+  - Deployment and maintenance of multiple critical infrastructure software,
+    (Gitlab, Jenkins, Sentry, Wordpress, Zulip and others).
+  - Continuous delivery of packages of multiple projects, using Gitlab-CI and
+    custom docker images.
+  - Packaging for Windows, OSX, Linux, using PyInstaller, InnoSetup, and custom
+    scripts.
+  - Packaging and internal hosting of Python and Cython packages, that other
+    internal applications depends on.
+
+Projects for: Paco Rabanne, Armani, SNCF, EDF, Glenmorangie, ATS, WNE,
+  Bottega-Veneta, CEA Tech, BCG, Métropole of Marseille, Candriam, JCDécaux, Yves
+  Saint Laurent, ServicePlan, Orange, Dior.
+
+### 2013-2014 Cloudwatt
 
 - OpenStack development: UI implementation in horizon (`python`/`django`/`javascript`/`angularjs`)
 
@@ -76,40 +118,40 @@ Allow to instanciate classes, call their methods, and soon to implement
 In collaboration with Mathieu Virbel, with the Kivy organisation
 <https://github.com/kivy/pyjnius>
 
-### Ultimate-Smash-Friends (since 2008)
+
+### Ultimate-Smash-Friends (2008-2012)
 
 A plateform fight game, in `Python`, i moved on to other things now, but
 to date, my biggest personnal project. Got a few contributors, now hosted on Github:
 <https://github.com/tshirtman/ultimate-smash-friends>
 
+
 ## Technical Skills
 
 ### Expert
 
-I won't label myself as an expert in anything, there is always so much
-to learn :) (Other may consider me an expert in some of the things i put
-in the next
-section, though)
-
+- `Kivy`
+- `Python`
 
 ### Advanced
 
-- `Python`
-- `Kivy`
+- `Cython`
 - `Git`
 - `Linux`
 - `Vim`
-- `shell` (`sh`/`bash`/`zsh`)
+- `shell` (`sh`/`bash`/`zsh`/`xonsh`)
+- `Docker` (`docker-compose`)
 
 
 ### Moderate
 
 - `C`
-- `HTML`/`CSS`/`Javascript`/`Ajax` (`JQuery`/`Prototype`)
+- `Arduino`
+- `HTML`/`CSS`/`Javascript` (`Vue`, `JQuery`)
 - `Ruby`/`Rails`
-- `Cython`
 - `Networks`
 - `Java`/`JNI`
+- `GLSL`
 
 
 ### Begginer/Curious
@@ -118,6 +160,8 @@ section, though)
 - `Lisp`
 - `Go`
 - `Erlang`
+- `R`
+
 
 
 ## Other Qualifications
