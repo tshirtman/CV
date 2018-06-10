@@ -9,36 +9,38 @@ Technologies: Python, Kivy, R, Docker, Docker-compose, Debian, Gentoo, Arduino,
   Bourn Shell, Makefile. GLSL, Electron, ELK, LIDAR, GitLab
 
 - Interaction/Multimedia development with Kivy:
-  - Design, implementation, integration of mutlitouch & tangible UX for
-    multiple clients, and internal products.
-  - Development of a patented method to detect and classify phygital markers,
-    allowing customers to configure their objects, and send detection info to
-    third party application, into a product (ObjectViz).
-  - Design and implementation of a Tangible application framework, with
-    a plugin discovery system, and ability to define interaction with external
-    applications, with custom UI to physical objets on multitouch tables.
-  - Design and development of a data exploration solution, Tangible Data,
-    delegating tasks to R, and displaying the result both natively in Kivy and
-    Electron using web technologies.
-  - Design and development of a drag and drop CMS for tangible applications,
-    allowing users to attach multimedia content to objects.
-  - Design and implementation of a cryptographic license system, to tie
-    distributed software to customer's computers. Implementation of a dongle
-    based license solution to allow for license portability.
-  - Development of a 3D point cloud visualisation system for LIDAR data, with
-    multitouch navigation, level of detail loading by proximity to camera,
-    working smoothly with dozens of millions of points.
-  - Implement Arduino based applications to drive boards managing LEDs and
-    RFIDs.
-  - Implement usage data collection and presentation using the ELK stack.
+    - Design, implementation, integration of mutlitouch & tangible UX for
+      multiple clients, and internal products.
+    - Development of a patented method to detect and classify phygital markers,
+      allowing customers to configure their objects, and send detection info to
+      third party application, into a product (ObjectViz).
+    - Design and implementation of a Tangible application framework, with
+      a plugin discovery system, and ability to define interaction with external
+      applications, with custom UI to physical objets on multitouch tables.
+    - Design and development of a data exploration solution, Tangible Data,
+      delegating tasks to R, and displaying the result both natively in Kivy and
+      Electron using web technologies.
+    - Design and development of a drag and drop CMS for tangible applications,
+      allowing users to attach multimedia content to objects.
+    - Design and implementation of a cryptographic license system, to tie
+      distributed software to customer's computers. Implementation of a dongle
+      based license solution to allow for license portability.
+    - Development of a 3D point cloud visualisation system for LIDAR data, with
+      multitouch navigation, level of detail loading by proximity to camera,
+      working smoothly with dozens of millions of points.
+    - Implement Arduino based applications to drive boards managing LEDs and
+      RFIDs.
+    - Implement usage data collection and presentation using the ELK stack.
+    - Real time display of twitter search results and SMS messages  and
+      physical interaction associated to them.
 - DevOps
-  - Deployment and maintenance of multiple critical infrastructure software,
+    - Deployment and maintenance of multiple critical infrastructure software,
     (Gitlab, Jenkins, Sentry, Wordpress, Zulip and others).
-  - Continuous delivery of packages of multiple projects, using Gitlab-CI and
+    - Continuous delivery of packages of multiple projects, using Gitlab-CI and
     custom docker images.
-  - Packaging for Windows, OSX, Linux, using PyInstaller, InnoSetup, and custom
+    - Packaging for Windows, OSX, Linux, using PyInstaller, InnoSetup, and custom
     scripts.
-  - Packaging and internal hosting of Python and Cython packages, that other
+    - Packaging and internal hosting of Python and Cython packages, that other
     internal applications depends on.
 
 Projects for: Paco Rabanne, Armani, SNCF, EDF, Glenmorangie, ATS, WNE,
@@ -87,6 +89,7 @@ Projects for: Paco Rabanne, Armani, SNCF, EDF, Glenmorangie, ATS, WNE,
 
 
 ## Degrees
+___
 
 
 ### 2009-2012
@@ -143,6 +146,7 @@ to date, my biggest personnal project. Got a few contributors, now hosted on Git
 
 
 ## Technical Skills
+___
 
 ### Expert
 
@@ -181,14 +185,17 @@ to date, my biggest personnal project. Got a few contributors, now hosted on Git
 
 
 ## Other Qualifications
+___
 
 ### Languages
 
 - French: native
 - English: fluent (TOEIC 990)
+- Portuguese: beginner
 
 
 ## Various interests
+___
 
 - Science!
 - History
