@@ -51,7 +51,7 @@ Projects for: Paco Rabanne, Armani, SNCF, EDF, Glenmorangie, ATS, WNE,
 
 - OpenStack development: UI implementation in horizon (`python`/`django`/`javascript`/`angularjs`)
 
-### 2013 Gihux.com
+### 2013 Gihux.com (self-employed)
 
 - Infrastructure research and administration
 
@@ -195,7 +195,6 @@ ___
 
 
 ## Various interests
-___
 
 - Science!
 - History
