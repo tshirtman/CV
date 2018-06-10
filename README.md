@@ -89,7 +89,6 @@ Projects for: Paco Rabanne, Armani, SNCF, EDF, Glenmorangie, ATS, WNE,
 
 
 ## Degrees
-___
 
 
 ### 2009-2012
@@ -146,7 +145,6 @@ to date, my biggest personnal project. Got a few contributors, now hosted on Git
 
 
 ## Technical Skills
-___
 
 ### Expert
 
@@ -185,7 +183,6 @@ ___
 
 
 ## Other Qualifications
-___
 
 ### Languages
 
