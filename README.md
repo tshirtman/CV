@@ -127,6 +127,13 @@ A fast and modern implementation, of the OSC protocol, supporting python2 and
 python3, with a good test coverage, and good separation of concerns.
 <https://github.com/kivy/oscpy>
 
+
+### Mailsync
+
+A daemon to wrap various email/imap tools to keep local
+copies of my mails, and have notifications on new mails, and other benefits, while using NeoMutt.
+
+
 ### PythonAR
 
 `Python Auto Reloader`, can be used for all sort of projects, not just
