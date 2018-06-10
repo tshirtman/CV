@@ -106,12 +106,19 @@ Institute (IUT) of Valence (France)
 
 ### Kivy
 I'm a contributor and a core developer to the Kivy project since the early
-days, and I've contributed a lot of things to it, most importantly:
+days, and I've contributed a few important things to it, and a lot of less important ones:
 - The OscPy project to replace its shipped aging OSC implementation
 - Numerous improvements to its SVG implementation
 - PageLayout widget
+- Garden Widgets:
+    - Modernmenu (https://github.com/kivy-garden/garden.modernmenu)
+    - Magnet (https://github.com/kivy-garden/garden.magnet)
+    - DDD (https://github.com/kivy-garden/garden.ddd)
+    - AnimLabel (https://github.com/kivy-garden/garden.animlabel)
+    - AnimLabel_bezier (https://github.com/kivy-garden/garden.animlabel_bezier)
 - KViewer tool to rapidly iterate design
 - RoundedRectangle instruction
+- A lot of examples, bugfixes, documentation and advocacy for the community.
 
 
 ### OscPy
