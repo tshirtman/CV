@@ -2,11 +2,37 @@
 
 ## Experience
 
-### 2014-present Tangible Display
+### 2018-present Partoo
 
-Technologies: Python, Kivy, R, Docker, Docker-compose, Debian, Gentoo, Arduino,
-  PyInstaller, Innosetup, Buildozer, Windows, Linux, OSX, BLE, JNI, Cython, Bash,
-  Bourn Shell, Makefile. GLSL, Electron, ELK, LIDAR, GitLab
+**Lead Developer.**
+
+Technologies: `Python`, `Pyramide`, `Flask`, `SqlAlchemy`, `PostgeSQL`, `Redis`, `Ansible`,
+`AWS`, `MongoDB`, `React`, `Redux`, `Github`, `CircleCI`.
+
+  - Full stack development on a B2B application.
+    - Definition and implementation of REST api endpoints.
+    - Design and implementation of Database schemes to fit business requirements.
+    - Migration of existing data from MongoDB to PostgreSQL, on-line and off-line.
+    - Feature-to-feature adaptation of existing code to the new database.
+    - Definition and implementation of Redux state management and React
+      components, using Sagas to handle async tasks.
+    - Implementation with external APIs (input and output of data), following
+      defined specifications.
+
+  - DevOps
+    - Management of AWS infrastructure
+    - Implementation of new Ansible roles to manage deployment and provisionning.
+
+  - Coaching/mentorship of junior engineers
+
+
+### 2014-2018 Tangible Display
+
+**Lead Developer.**
+
+Technologies: `Python`, `Kivy`, `R`, `Docker`, `Docker-compose`, `Debian`, `Gentoo`, `Arduino`,
+  `PyInstaller`, `Innosetup`, `Buildozer`, `Windows`, `Linux`, `OSX`, `BLE`, `JNI`, `Cython`, `Bash`,
+  `Bourn` `Shell`, `Makefile`. `GLSL`, `Electron`, `ELK`, `LIDAR`, `GitLab`
 
   - Interaction/Multimedia development with `Kivy`:
     - Design, implementation, integration of multitouch & `tangible` UX for
@@ -50,6 +76,8 @@ Projects for: Paco Rabanne, Armani, SNCF, EDF, Glenmorangie, ATS, WNE,
 
 ### 2013-2014 Cloudwatt
 
+**Developer.**
+
 - OpenStack development: UI implementation in horizon (`python`/`django`/`javascript`/`angularjs`)
 
 
@@ -62,6 +90,8 @@ Projects for: Paco Rabanne, Armani, SNCF, EDF, Glenmorangie, ATS, WNE,
 - UI design and development for `Android`/`iOS` applications with `Kivy`
 
 ### 2013 Majerti
+
+**Developer**
 
 - `Pyramid` web development for an in-flight content management system for
   commercial aircrafts.
@@ -77,6 +107,8 @@ Projects for: Paco Rabanne, Armani, SNCF, EDF, Glenmorangie, ATS, WNE,
 
 ### 2011-2012 Tabtou
 
+**Developer**
+
 - `BPMN` 2.0 solution development using `Kivy`/`Python-for-android`
     - Implementation of `BPMN` 2.0 specification
     - User Interface/interaction design and implementation using `Kivy`
@@ -91,6 +123,8 @@ Projects for: Paco Rabanne, Armani, SNCF, EDF, Glenmorangie, ATS, WNE,
 
 
 ### 2009-2012 AlterWay Solutions
+
+**Developer (internship)**
 
 - `Redmine` Plugins development and customization to build custom client
   solutions (`Ruby`/`Rails`)
@@ -113,6 +147,8 @@ Projects for: Paco Rabanne, Armani, SNCF, EDF, Glenmorangie, ATS, WNE,
 
 ### 2008-2009 Linterweb SARL
 
+**Developer**
+
 - `PHP` developpment for French electricity company (EDF) works
   concil.
     - Maintenance and evolution of various custom based `PHP` websites and
@@ -122,6 +158,8 @@ Projects for: Paco Rabanne, Armani, SNCF, EDF, Glenmorangie, ATS, WNE,
 
 
 ### 2006-2007 Equaly SARL
+
+**Developer**
 
 - Work on `ERP` implemention based on ERP5 (`Zope`/`Python`) for the cwdsellier company
     - Implementation of company workflows
@@ -146,26 +184,27 @@ Institute (IUT) of Valence (France)
 
 ### Kivy
 I'm a contributor and a core developer to the Kivy project since the early
-days, and I've contributed a few important things to it, and a lot of less important ones:
+days, and I've contributed a few important things to it, and a lot of minor ones:
 
-- The OscPy project to replace its shipped aging OSC implementation
-- Numerous improvements to its SVG implementation
-- PageLayout widget
+- The OSCPy project to replace its shipped aging OSC implementation
+- Most of the basis of the current documentation.
+- Numerous improvements to its SVG implementation.
 - Garden Widgets:
     - Modernmenu (<https://github.com/kivy-garden/garden.modernmenu>)
     - Magnet (<https://github.com/kivy-garden/garden.magnet>)
     - DDD (<https://github.com/kivy-garden/garden.ddd>)
     - AnimLabel (<https://github.com/kivy-garden/garden.animlabel>)
     - AnimLabel-bezier (<https://github.com/kivy-garden/garden.animlabel_bezier>)
+- PageLayout widget
 - KViewer tool to rapidly iterate design
-- CloudPoints, a cloud points widget/viewer based on Kivy and Liblas (<https://github.com/TangibleDisplay/cloudpoints>)
+- CloudPoints, a cloud points widget/viewer based on Kivy and Liblas (<https://github.com/tshirtman/cloudpoints>)
 - RoundedRectangle instruction
 - A better vim syntax file
 - A lot of examples, bugfixes, documentation, mentorship and advocacy for the
   community.
 
 
-### OscPy
+### OSCPy
 
 A fast and modern implementation, of the OSC protocol, supporting python2 and
 python3, with a good test coverage, and good separation of concerns.
@@ -188,7 +227,7 @@ under the Kivy organisation
 
 ### PyJNIus
 
-A `Cython` lib to use `Java` classes directly from `Python`, using `JNI`. Allow
+A `Cython` lib to use `Java` classes directly from `Python`, using `JNI`. Allows
 to instanciate classes, call their methods, and to implement `Java`
 interfaces directly from `Python` Classes.
 In collaboration with Mathieu Virbel, with the `Kivy` organisation
@@ -197,7 +236,7 @@ In collaboration with Mathieu Virbel, with the `Kivy` organisation
 
 ### Ultimate-Smash-Friends (2008-2012)
 
-A plateform fight game, in `Python`, i moved on to other things now, but
+A plateform fight game, in `Python`, I moved on to other things now, but
 to date, my biggest personnal project. Got a few contributors, now hosted on Github:
 <https://github.com/tshirtman/ultimate-smash-friends>
 
@@ -207,7 +246,8 @@ to date, my biggest personnal project. Got a few contributors, now hosted on Git
 ### Expert
 
 - `Kivy`
-- `Python`
+- `Python` (2/3)
+
 
 ### Advanced
 
@@ -215,28 +255,18 @@ to date, my biggest personnal project. Got a few contributors, now hosted on Git
 - `Git`
 - `Linux`
 - `Vim`
-- `shell` (`sh`/`bash`/`zsh`/`fish`/`xonsh`)
+- `shell` (`sh`/`bash`/`zsh`/`fish`)
 - `Docker` (`docker-compose`)
 
 
-### Moderate
+### Experienced
 
 - `C`
 - `Arduino`
-- `HTML`/`CSS`/`Javascript` (`Vue`, `JQuery`)
-- `Ruby`/`Rails`
+- `HTML`/`CSS`/`Javascript` (`React`, `Vue`, `JQuery`)
 - `Networks`
 - `Java`/`JNI`
 - `GLSL`
-
-
-### Begginer/Curious
-
-- `Haskell`
-- `Lisp`
-- `Go`
-- `Erlang`
-- `R`
 
 
 ## Other Qualifications
