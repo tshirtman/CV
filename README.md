@@ -2,7 +2,21 @@
 
 ## Experience
 
-### 2018-present Partoo
+### 2020-present IMC
+
+**Software Engineer**
+
+Backoffice development:
+Techonologies: `Python`, `Flask`, `SQLAlchemy`, `PostgreSQL`, `Redis`, `React`, `Redux`, `Gitlab`, `Airflow`, `DreamIO`
+
+- Development and support of applications for midoffice team, ensuring the
+  reliability and correctness of operations fetching data from various 3rd
+  parties and internal systems, computing and publishing reconciled data.
+- Development and support of Compliance Reports, usually from large amounts of
+  daily data, to be processed formatted and sent to regulators or archived,
+  following specifications.
+
+### 2018-2020 Partoo
 
 **Lead Developer.**
 
